@@ -1,1 +1,4 @@
-# Bugdet-Traacker-Flask
+# Budget Tracker (Flask + SQLite)
+Run:
+- pip install -r requirements.txt
+- python app.py
